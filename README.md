@@ -1,4 +1,3 @@
-<br/>
 <p align="center">
   <h1 align="center">Long Video Diffusion Generation with Segmented Cross-Attention and Content-Rich Video Data Curationl</h1>
   <p align="center">
