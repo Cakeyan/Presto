@@ -40,8 +40,6 @@ We extend our heartfelt appreciation for the great contribution to the open-sour
 
 - [Allegro](https://github.com/rhymes-ai/Allegro): A powerful text-to-video and text-image-to-video model that generates high-quality videos.
 - [Open-Sora-Plan](https://github.com/PKU-YuanGroup/Open-Sora-Plan): A project aims to create a simple and scalable repo, to reproduce Sora.
-
 - [EMA-VFI](https://github.com/MCG-NJU/EMA-VFI): A video frame interpolation model.
 - [DiT](https://github.com/facebookresearch/DiT): Scalable Diffusion Models with Transformers.
-
 - [T5](https://github.com/google-research/text-to-text-transfer-transformer): A powerful text encoder.
